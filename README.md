@@ -1,2 +1,2 @@
 # Dice-Simulator
-My dice simylator written in Python 3
+My dice simulator written in Python 3
